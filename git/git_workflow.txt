@@ -1,0 +1,9 @@
+python -m http.server 8000
+    starts a local server for website
+
+git init
+git pull origin main
+Edit files in VS Code
+git add . → stage changes
+git commit -m "comment" 
+git push origin main 

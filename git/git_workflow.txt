@@ -3,7 +3,6 @@ python -m http.server 8000
 
 git init
 git pull origin main
-Edit files in VS Code
-git add . → stage changes
+git add . 
 git commit -m "comment" 
 git push origin main 

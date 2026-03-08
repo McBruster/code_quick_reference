@@ -7,3 +7,7 @@ colnames()
 
 my_data <- read.csv("filename.csv")
 Data %>% filter (colors == "red")
+
+
+dataFrame$column #shows individual column
+
